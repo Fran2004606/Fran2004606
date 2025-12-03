@@ -4,15 +4,19 @@ Mi nombre es Franco Nicolás Suárez, tengo 21 años y recientemente finalicé e
 
 Actualmente cuento con conocimientos en:
 
-Programación orientada a objetos (POO)
+✅ Programación orientada a objetos (POO)
 
-Clases, métodos y herencia
+✅ Clases, métodos y herencia
 
-Arrays
+✅ Arrays
 
-Bucles (for / while)
+✅ Bucles (for / while)
 
-Entrada por consola (Scanner)
+✅ Entrada por consola (Scanner)
+
+✅ Diagrama de flujos
+
+✅ Operadores Lógicos 
 
 Adjunto al README un ejercicio simple con saludo personalizado.
 
