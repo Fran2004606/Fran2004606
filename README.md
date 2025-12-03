@@ -4,6 +4,8 @@ Mi nombre es Franco Nicolás Suárez, tengo 21 años y recientemente finalicé e
 
 Actualmente cuento con conocimientos en:
 
+✅Variables y tipos de datos
+
 ✅ Programación orientada a objetos (POO)
 
 ✅ Clases, métodos y herencia
