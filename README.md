@@ -14,6 +14,7 @@ Bucles (for / while)
 
 Entrada por consola (Scanner)
 
+Adjunto al README un ejercicio simple con saludo personalizado.
 
 
 
