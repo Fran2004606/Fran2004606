@@ -1,16 +1,21 @@
-## Hi there 👋
+> Sobre mí:
 
-<!--
-**Fran2004606/Fran2004606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Franco Nicolás Suárez, tengo 21 años y recientemente finalicé el curso Fundamentos de la Programación en el instituto Instrumenta, donde me inicié formalmente en programación con Java.
 
-Here are some ideas to get you started:
+Actualmente cuento con conocimientos en:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programación orientada a objetos (POO)
+
+Clases, métodos y herencia
+
+Arrays
+
+Bucles (for / while)
+
+Entrada por consola (Scanner)
+
+
+
+
+
+
