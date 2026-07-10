@@ -1,6 +1,6 @@
 > Sobre mí:
 
-Mi nombre es Franco Nicolás Suárez, tengo 21 años y recientemente finalicé el curso Fundamentos de la Programación en el instituto Instrumenta, donde me inicié formalmente en programación con Java.
+Mi nombre es Franco Nicolás Suárez, tengo 21 años y actualmente vivo en Venado tuerto, Santa Fe
 
 Actualmente cuento con conocimientos en:
 
@@ -19,6 +19,12 @@ Actualmente cuento con conocimientos en:
 ✅ Diagrama de flujos
 
 ✅ Operadores Lógicos 
+
+✅ HTML5
+
+✅ CSS
+
+Aún estoy aprendiendo .js y SQL
 
 Adjunto al README un ejercicio simple con saludo personalizado.
 
